@@ -4,7 +4,7 @@ import { Card } from './ui/Card';
 import { ChevronRight, ArrowLeft, ArrowRight, CheckCircle2 } from 'lucide-react';
 
 interface QuizScreenProps {
-  questions: Object[];
+  questions: Question[];
   onComplete: (answers: Option[]) => void;
 }
 

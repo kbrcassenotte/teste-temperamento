@@ -1,5 +1,5 @@
 {
-  "name": "Teste Comportamental",
-  "description": "A professional behavioral assessment tool to discover your predominant temperament profile through situational analysis and keyword association.",
+  "name": "Teste Comportamental Vanilla",
+  "description": "Ferramenta de análise comportamental sem frameworks.",
   "requestFramePermissions": []
 }
